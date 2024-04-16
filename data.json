@@ -1,6 +1,12 @@
 {
 	"data": [
 		{
+			"text": "WhatsApp Admin",
+			"link": "https://api.whatsapp.com/send?phone=62853293353541&text=Halo%20Admin%20Ekologi",
+			"image": "https://static-00.iconduck.com/assets.00/whatsapp-icon-256x256-1ysn3lnm.png",
+			"background_color": ""
+		},
+		{
 			"text": "YouTube: Ekologi",
 			"link": "https://www.youtube.com/@ekologi_id",
 			"image": "https://static-00.iconduck.com/assets.00/youtube-icon-512x512-80maysdk.png",
