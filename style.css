@@ -157,6 +157,10 @@
 	width: 45px;
 }
 
+.col-62 {
+	width: 62.5px !important;
+}
+
 @media (max-width: 800px) {
 	.navbar.sticky-top {
 		width: auto;
