@@ -3,31 +3,31 @@
 		{
 			"text": "WhatsApp Admin",
 			"link": "https://api.whatsapp.com/send?phone=62853293353541&text=Halo%20Admin%20Ekologi",
-			"image": "https://static-00.iconduck.com/assets.00/whatsapp-icon-256x256-1ysn3lnm.png",
+			"image": "img/icon-wa-64.png",
 			"background_color": ""
 		},
 		{
 			"text": "YouTube: Ekologi",
 			"link": "https://www.youtube.com/@ekologi_id",
-			"image": "https://static-00.iconduck.com/assets.00/youtube-icon-512x512-80maysdk.png",
+			"image": "img/icon-youtube-64.png",
 			"background_color": ""
 		},
 		{
 			"text": "Instagram: Ekologi.ig",
 			"link": "https://www.instagram.com/ekologi.ig",
-			"image": "https://icon.horse/icon/instagram.com",
+			"image": "img/icon-ig-64.png",
 			"background_color": ""
 		},
 		{
 			"text": "Tiktok: Ekologi.id",
 			"link": "https://www.tiktok.com/@ekologi.id",
-			"image": "https://icon.horse/icon/tiktok.com",
+			"image": "img/icon-tiktok-64.png",
 			"background_color": ""
 		},
 		{
 			"text": "Twitter: Ekologi_id",
 			"link": "https://twitter.com/ekologi_id",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/X_icon_2.svg",
+			"image": "img/icon-x-twitter-64.png",
 			"background_color": ""
 		}
 	]
